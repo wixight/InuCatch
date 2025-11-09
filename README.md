@@ -28,8 +28,7 @@ requirements.txt
 
 ## ✨ Автор
 wixight
-Также рекомендую игру от этого разработчика: https://github.com/wixight/InuCatch/blob/main/README.md](https://github.com/vincitorelepre/snake.-pygame
-
+Также рекомендую игру от этого разработчика: https://github.com/vincitorelepre/snake.-pygame
 
 ## tags
 game, arcade, python, pygame, catching game, indie, simple game, InuCatch
