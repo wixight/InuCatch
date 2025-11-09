@@ -28,7 +28,7 @@ requirements.txt
 
 ## ✨ Автор
 wixight
-Также рекомендую игру от этого разработчика: https://github.com/wixight/InuCatch/blob/main/README.md
+Также рекомендую игру от этого разработчика: https://github.com/wixight/InuCatch/blob/main/README.md](https://github.com/vincitorelepre/snake.-pygame
 
 
 ## tags
